@@ -27,3 +27,6 @@ Air Pollution Monitoring In Pakisatn
 
 ### Accuracy On Network#2:
 ![downloadg](https://user-images.githubusercontent.com/23026565/59905183-e2696b00-941e-11e9-9845-64399b71c703.png)
+
+### Accuracy On Network#3:
+![download (12)](https://user-images.githubusercontent.com/23026565/59910706-e94aaa80-942b-11e9-89d3-43874e177ab9.png)
